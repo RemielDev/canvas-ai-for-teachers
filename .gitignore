@@ -1,0 +1,43 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Build outputs
+dist
+build
+.next
+out
+
+# Env files (per-workspace copies are also git-ignored individually)
+.env
+.env.local
+.env.*.local
+.env.test
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor / OS
+.DS_Store
+.vscode
+.idea
+*.swp
+Thumbs.db
+
+# Misc
+.cache
+coverage
+playwright-report
+test-results
+bun.lockb
+
+# Supabase local
+supabase/.branches
+supabase/.temp
+
+# TypeScript
+*.tsbuildinfo

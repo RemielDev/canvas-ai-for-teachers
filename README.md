@@ -1,4 +1,4 @@
-# Canvas AI for Teachers
+# Canvas AI for Teachers (CONCEPT/FRAMEWORK)
 
 A teacher-first Chrome extension and web dashboard that lives inside Canvas LMS. It reads a teacher's course — syllabus, modules, pages, assignments, rubrics, uploads — and gives them tap-only AI workflows for drafting assignments, rebuilding units, surfacing at-risk students, and writing rubric-locked bulk feedback. The extension is the wedge (zero IT approval, teacher installs it themselves); the dashboard is the depth; the district sale is the destination.
 
